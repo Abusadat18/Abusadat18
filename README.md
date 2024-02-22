@@ -1,9 +1,9 @@
-السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+Assalamualaikum Warahmatullahi Wabarakatuh 🤍
 =================================
 My name is Abu Sadat Ansari
 =================================
 
-Learning Full Stack Development
+I am currently Learning Full Stack Development
 -------------------------------
 
 * 🌍  I'm based in Kolkata , India
