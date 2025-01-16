@@ -3,7 +3,7 @@ Assalamualaikum Warahmatullahi Wabarakatuh 🤍
 My name is Abu Sadat Ansari
 =================================
 
-I am currently Learning Full Stack Development
+Full Stack Developer
 -------------------------------
 
 * 🌍  I'm based in Kolkata , India
