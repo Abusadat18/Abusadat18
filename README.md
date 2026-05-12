@@ -1,8 +1,6 @@
 # Hi 👋, I'm Abu Sadat Ansari
 
-### Full Stack Developer
-
-- 🌱 I'm currently learning **AI Engineering**
+### Full Stack Developer | AI Engineer
 
 - 💬 Ask me about **Development or Design**
 
